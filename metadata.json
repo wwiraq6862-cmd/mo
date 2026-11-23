@@ -1,0 +1,8 @@
+{
+  "name": "حمّلها HAMILHA",
+  "description": "حمّلها.. كل ملفاتك بمكان واحد — تطبيق وبوت واتساب ذكي لتحميل الوسائط المسموح بها من منصات التواصل الاجتماعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

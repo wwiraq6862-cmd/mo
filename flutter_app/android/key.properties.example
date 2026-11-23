@@ -1,0 +1,6 @@
+# انسخ هذا الملف إلى key.properties محلياً ولا ترفعه إلى مستودع الشيفرة أو حزم التصدير
+# Copy to android/key.properties locally; keep real passwords & .jks/.keystore outside the repo
+storePassword=CHANGE_ME_STORE_PASSWORD
+keyPassword=CHANGE_ME_KEY_PASSWORD
+keyAlias=hamilha_release
+storeFile=/ABSOLUTE/PATH/TO/hamilha-release-keystore.jks
